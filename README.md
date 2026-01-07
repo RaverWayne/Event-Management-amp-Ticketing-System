@@ -121,14 +121,14 @@ FUTURE ENHANCEMENTS:
 GROUP 10 (Event Management &amp; Ticketing System)
 --------------------
 Project Leaders: 
-Bondoc, Raver Wayne
-Señar, Edrian
+1.) Bondoc, Raver Wayne
+2.) Señar, Edrian
 
 Members:
-Abiera, Vincent
-Bautista, Steffanie
-Luna, Marc Laurence
-Timbas, Althea
+3.) Abiera, Vincent
+4.) Bautista, Steffanie
+5.) Luna, Marc Laurence
+6.) Timbas, Althea
 
 
 Date: January 2026
